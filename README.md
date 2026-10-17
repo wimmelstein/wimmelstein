@@ -1,6 +1,6 @@
 ### Hi, I'm Wim
 
-Java developer, Scrum Master and coach in Zuid-Limburg, the Netherlands, with about 40 years in IT:
+Java software engineer, Scrum Master and coach in Zuid-Limburg, the Netherlands, with about 40 years in IT:
 Unix sysadmin and application manager first. Through
 [Wiltenburg IT](https://wiltenburgit.nl) I build tools for people who keep websites running.
 
