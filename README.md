@@ -14,14 +14,25 @@ Unix sysadmin and application manager first. Through
       and tells you before your customers do.</td>
   </tr>
   <tr>
-    <td width="72" align="center"><img src="img/git-deploy.svg" width="48" height="48" alt="git-deploy"></td>
+    <td width="72" align="center"><img src="img/metis.svg" width="48" height="48" alt="Metis"></td>
+    <td><b>Metis</b><br>
+      My own suite of tools for keeping many projects running: one shared design, one colour per tool.
+      Named after μῆτις, the practical cleverness of Odysseus.</td>
+  </tr>
+  <tr>
+    <td width="72" align="right"><img src="img/backlog.svg" width="32" height="32" alt="Backlog"></td>
+    <td><b>Backlog</b><br>
+      One backlog for all my apps: user stories, bugs and sprints, with an API so other tools can add to it.</td>
+  </tr>
+  <tr>
+    <td width="72" align="right"><img src="img/git-deploy.svg" width="32" height="32" alt="git-deploy"></td>
     <td><b><a href="https://git-deploy.wiltenburgit.nl">git-deploy</a></b><br>
       Ship a git branch to shared hosting, only what changed: an FTPS push through a staging folder or
       a zip for the file manager, then a check of the live site. Windows, macOS and Linux; free to use.</td>
   </tr>
 </table>
 
-The code of these products is private; the websites tell you more.
+The code of these tools is private; the websites tell you more.
 
 #### About the public repositories
 
