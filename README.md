@@ -1,0 +1,30 @@
+### Hi, I'm Wim
+
+Software engineer in Zuid-Limburg, the Netherlands, with about 40 years in IT: Unix sysadmin and
+application manager first, now a Java developer and teacher. Through
+[Wiltenburg IT](https://wiltenburgit.nl) I build tools for people who keep websites running.
+
+#### What I'm building
+
+<table>
+  <tr>
+    <td width="72" align="center"><img src="img/gadfly.svg" width="48" height="48" alt="Gadfly"></td>
+    <td><b><a href="https://gadfly.nl">Gadfly</a></b><br>
+      Uptime monitoring for shared hosting. It checks your sites and their heartbeats every minute,
+      and tells you before your customers do.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="img/git-deploy.svg" width="48" height="48" alt="git-deploy"></td>
+    <td><b><a href="https://git-deploy.wiltenburgit.nl">git-deploy</a></b><br>
+      Ship a git branch to shared hosting, only what changed: an FTPS push through a staging folder or
+      a zip for the file manager, then a check of the live site. Windows, macOS and Linux; free to use.</td>
+  </tr>
+</table>
+
+The code of these products is private; the websites tell you more.
+
+#### About the public repositories
+
+Most of them are teaching material from my years as a lecturer: examples and starters for Java,
+JavaFX, PHP, Vue and web development. They stay online for former students and are no longer
+maintained.
